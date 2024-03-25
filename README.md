@@ -1,11 +1,13 @@
 # Olá Pessoal!
 
-Sou um desenvolvedor backend com experiência em JavaScript e TypeScript, especializado em construir APIs RESTful usando o framework Express.js. Tenho uma sólida compreensão de bancos de dados relacionais, incluindo PostgreSQL e MySQL, e posso criar e gerenciar bancos de dados eficientes para atender às necessidades do projeto. 
+Sou um desenvolvedor de sistemas embarcados e backend com experiência em C, STM32, ARM, PIC, Raspiberry Pi, Lora P2P e Lorawan, formado em Eletrônica e Ciência da Computação, tenho grande experiência em construir sistemas de eletronica embarcada e IoT. Tenho uma sólida compreensão de eletrônica, analise de projetos, bancos de dados relacionais, e posso criar e gerenciar todas as etapas do desenvolvimento e atender às necessidades do projeto. 
 
-Atualmente, estou estudando NestJS, um framework progressivo para construção de aplicações de servidor em Node.js, usando TypeScript. Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento web. Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
+Atualmente, estou estudando Python e Django para construir a parte de Backend dos meus projetos de IoT. Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento, tanto de uControladores e web. Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
+
+Tenho uma empresa, Grupo LT [(https://www.grupolt.com.br/)] que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final, além de ser amante de teconologia. 
 
 ## Para me encontrar:
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-matos-964307226/)
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
 
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -14,16 +16,12 @@ Atualmente, estou estudando NestJS, um framework progressivo para construção d
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)>
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMundim&theme=tokyonight&custom_title=Top%20%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leocsbh007&theme=tokyonight&custom_title=Top%20%Linguagens)
