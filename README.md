@@ -4,10 +4,11 @@ Sou um desenvolvedor de sistemas embarcados e backend com experiência em C, STM
 
 Atualmente, estou estudando Python e Django para construir a parte de Backend dos meus projetos de IoT. Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento, tanto de uControladores e web. Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
 
-Tenho uma empresa, Grupo LT [(https://www.grupolt.com.br/)] que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final, além de ser amante de teconologia. 
+Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final, além de ser amante de teconologia. 
 
 ## Para me encontrar:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
+[![GrupoLT](https://img.shields.io/badge/GrupoLT-%230000FF.svg?style=for-the-badge&logo=GrupoLT&logoColor=white)](https://www.grupolt.com.br)
 
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
