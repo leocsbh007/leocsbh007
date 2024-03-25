@@ -8,7 +8,7 @@ Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto
 
 ## Para me encontrar:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
-[![GrupoLT](https://img.shields.io/badge/GrupoLT-%230000FF.svg?style=for-the-badge&logo=GrupoLT&logoColor=white)](https://www.grupolt.com.br)
+[![GrupoLT](https://img.shields.io/badge/GrupoLT-%230000FF.svg?style=for-the-badge&logo=Ltspice&logoColor=white)](https://www.grupolt.com.br)
 
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
