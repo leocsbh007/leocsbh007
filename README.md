@@ -10,6 +10,9 @@ Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
 [![GrupoLT](https://img.shields.io/badge/GrupoLT-%230000FF.svg?style=for-the-badge&logo=Ltspice&logoColor=white)](https://www.grupolt.com.br)
 
+## Alguns Projetos
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://sitebuscaprojetoseletronica.vercel.app/)
+
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
