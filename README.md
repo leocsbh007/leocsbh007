@@ -12,6 +12,7 @@ Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto
 
 ## Alguns Projetos
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://sitebuscaprojetoseletronica.vercel.app/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://leocsbh007.github.io/atividades-js/)
 
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
