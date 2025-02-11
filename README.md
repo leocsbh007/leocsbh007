@@ -1,10 +1,12 @@
 # Olá Pessoal!
 
-Sou um desenvolvedor de sistemas embarcados e backend com experiência em C, STM32, ARM, PIC, Raspiberry Pi, Lora P2P e Lorawan, formado em Eletrônica e Ciência da Computação, tenho grande experiência em construir sistemas de eletronica embarcada e IoT. Tenho uma sólida compreensão de eletrônica, analise de projetos, bancos de dados relacionais, e posso criar e gerenciar todas as etapas do desenvolvimento e atender às necessidades do projeto. 
+Sou um desenvolvedor de sistemas embarcados e backend com experiência em C, C++, Python, Javascript, HTML, CSS, STM32, ARM, PIC, Raspiberry Pi, Lora P2P e Lorawan, formado em Eletrônica e Ciência da Computação, tenho grande experiência em construir sistemas de eletronica embarcada e IoT. Tenho uma sólida compreensão de eletrônica, analise de projetos, bancos de dados relacionais, e posso criar e gerenciar todas as etapas do desenvolvimento e atender às necessidades do projeto. 
 
-Atualmente, estou estudando Python e Django para construir a parte de Backend dos meus projetos de IoT. Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias em desenvolvimento, tanto de uControladores e web. Estou ansioso para trazer minhas habilidades e experiência para um novo projeto ou equipe.
+Atualmente, estou fazendo vários projetos com Python usando Django e FastAPI e ja fiz alguma coisa em React. Estou sempre buscando me atualizar com as últimas tendências de tecnologias. Gosto sempre de desenvolver produtos novos com as tecnologias que estou estudando, tanto com uControladores, web ou eletrônica, e porque não tudo junto.
 
-Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final, além de ser amante de teconologia. 
+Se sua empresa precisar é só entrar em contato que posso ajudar sua equipe a resolver os problemas e criar novos produtos.
+
+Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final. 
 
 ## Para me encontrar:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
