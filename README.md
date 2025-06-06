@@ -22,8 +22,10 @@ If your company is looking for someone to develop innovative embedded and IoT so
 [![GrupoLT](https://img.shields.io/badge/GrupoLT-%230000FF.svg?style=for-the-badge&logo=Ltspice&logoColor=white)](https://www.grupolt.com.br)
 
 ## Alguns Projetos
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://sistemagestaoseguranca.onrender.com/docs)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://sitebuscaprojetoseletronica.vercel.app/)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://leocsbh007.github.io/atividades-js/)
+
 
 ## Hard Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
