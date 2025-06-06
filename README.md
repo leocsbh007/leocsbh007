@@ -1,12 +1,21 @@
-# Olá Pessoal!
+Hello, welcome! 👋
 
-Sou um desenvolvedor de sistemas embarcados e backend com experiência em C, C++, Python, Javascript, HTML, CSS, STM32, ARM, PIC, Raspiberry Pi, Lora P2P e Lorawan, formado em Eletrônica e Ciência da Computação, tenho grande experiência em construir sistemas de eletronica embarcada e IoT. Tenho uma sólida compreensão de eletrônica, analise de projetos, bancos de dados relacionais, e posso criar e gerenciar todas as etapas do desenvolvimento e atender às necessidades do projeto. 
+I'm a **Hardware Manager** and **Embedded & Backend Developer** with solid experience in **C, C++, Python, Java, JavaScript, HTML/CSS**, and platforms like **STM32, ARM, PIC, Raspberry Pi, LoRa P2P** and **LoRaWAN**.
 
-Atualmente, estou fazendo vários projetos com Python usando Django e FastAPI e ja fiz alguma coisa em React. Estou sempre buscando me atualizar com as últimas tendências de tecnologias. Gosto sempre de desenvolver produtos novos com as tecnologias que estou estudando, tanto com uControladores, web ou eletrônica, e porque não tudo junto.
+Sou formado em **Eletrônica e Ciência da Computação**, com ampla experiência no desenvolvimento de **sistemas embarcados e soluções IoT**, atuando desde o hardware até a camada web.
 
-Se sua empresa precisar é só entrar em contato que posso ajudar sua equipe a resolver os problemas e criar novos produtos.
+Currently, I'm working on several projects using **Python (Django & FastAPI)** and exploring **web integration** with React. I’m passionate about building complete tech solutions — combining microcontrollers, web systems and electronics into a single product.
 
-Tenho uma empresa, Grupo LT que pode oferecer todas as soluções de seu projeto, desde a gestão de material até o produto final. 
+Tenho conhecimento sólido em eletrônica analógica e digital, banco de dados relacionais, e consigo liderar todas as etapas de um projeto — da prototipação à entrega.
+
+🔧 I’m always exploring new technologies, solving real-world problems, and building smart connected systems.
+
+If your company is looking for someone to develop innovative embedded and IoT solutions, feel free to reach out.
+
+🚀 Through my company, **Grupo LT**, we deliver full-stack product development — from material sourcing to final hardware/software delivery.
+
+📫 Vamos conectar!
+
 
 ## Para me encontrar:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-souza-2a83b11a/)
